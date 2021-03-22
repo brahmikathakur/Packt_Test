@@ -1,10 +1,6 @@
 # Packt_Test
 Packt | Performance Test Engineer
 
-Hi Packt Team,
-
-Greetings!!!
-
 I have used Micro focus load runner VUgen for recording script (BlazeDemo), Load runner controller  for creating scenario and executing test & Load runner analysis for reporting.
 
 **SCRIPT** : - It contains only two pages.
